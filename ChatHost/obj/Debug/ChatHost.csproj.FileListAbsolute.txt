@@ -1,0 +1,11 @@
+H:\GVS Projects\WCFnetChat\ChatHost\bin\Debug\ChatHost.exe.config
+H:\GVS Projects\WCFnetChat\ChatHost\bin\Debug\ChatHost.exe
+H:\GVS Projects\WCFnetChat\ChatHost\bin\Debug\ChatHost.pdb
+H:\GVS Projects\WCFnetChat\ChatHost\bin\Debug\WCFnetChat.dll
+H:\GVS Projects\WCFnetChat\ChatHost\bin\Debug\WCFnetChat.pdb
+H:\GVS Projects\WCFnetChat\ChatHost\bin\Debug\WCFnetChat.dll.config
+H:\GVS Projects\WCFnetChat\ChatHost\obj\Debug\ChatHost.csprojAssemblyReference.cache
+H:\GVS Projects\WCFnetChat\ChatHost\obj\Debug\ChatHost.csproj.CoreCompileInputs.cache
+H:\GVS Projects\WCFnetChat\ChatHost\obj\Debug\ChatHost.csproj.CopyComplete
+H:\GVS Projects\WCFnetChat\ChatHost\obj\Debug\ChatHost.exe
+H:\GVS Projects\WCFnetChat\ChatHost\obj\Debug\ChatHost.pdb
